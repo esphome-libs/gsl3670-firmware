@@ -15,7 +15,7 @@ sidecar containing its SHA-256 checksum (standard `shasum -c` format).
 
 | File | Device |
 |------|--------|
-| `seeed-d1001-fw.bin` | Seeed Studio reTerminal D1001 (display module) |
+| `seeed-d1001-fw.bin` | [Seeed Studio reTerminal D1001 (display module)](https://github.com/Seeed-Studio/reTerminal-D1001) |
 
 ## Verifying a download
 
@@ -26,3 +26,4 @@ shasum -a 256 -c seeed-d1001-fw.bin.sha256
 ## License
 
 See [LICENSE](LICENSE).
+
